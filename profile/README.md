@@ -31,7 +31,7 @@ excellence and accelerate breakthroughs.
 ### Goals
 
 - Long-term:
-  - [ ] Implement a data lale for storing diverse datasets.
+  - [ ] Implement a data lake for storing diverse datasets.
   - [ ] Establish Infrastructure as Code practices.
 
 - Medium-term:
